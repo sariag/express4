@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/sariag/express4.git"
+    "url": "git://github.com/sariag/express4-wrapper.git"
   },
   "license": "MIT",
   "dependencies": {
