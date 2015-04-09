@@ -1,0 +1,21 @@
+{
+  "name": "express4",
+  "version": "1.0.0",
+  "description": "Express 4 wrapper",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": {
+    "name": "Saro Iskenian",
+    "email": "saro@ids.am",
+    "url": "https://github.com/sariag"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sariag/express4.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
